@@ -1,0 +1,19 @@
+{
+  "name": "greeting-app",
+  "version": "1.0.0",
+  "description": "Node Greeting App",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlharris516/node-greeting-app.git"
+  },
+  "author": "Meredith Harris",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlharris516/node-greeting-app/issues"
+  },
+  "homepage": "https://github.com/mlharris516/node-greeting-app#readme"
+}
